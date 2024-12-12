@@ -9,4 +9,9 @@ Lien vers la nouvelle fork utilisée avec SonarCube : [https://github.com/INFOSI
 
 ## Diagramme de Classe
 
-![Diagramme de classe](/DiagrammeDeClasse.svg)
+![Diagramme de classe](/docs/DiagramClass.jpg)
+
+## Déroulement d'un tour
+
+![Diagramme de sequence](/docs/DiagramSequenceTour.jpg)
+
